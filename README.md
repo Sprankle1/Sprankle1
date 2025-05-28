@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm currently learning more about Data Analytics and working on small personal projects.
 
+This page is for me to showcase my analytical and visualization skills. 🧠👀
+
 <!--
 **Sprankle1/Sprankle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
